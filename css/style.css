@@ -2,3 +2,12 @@
 .main-bg-color{
     background-color: #F2F6FC;
 }
+
+.card-style-tran{
+    transition: width 2s ease 1s;
+}
+.card-style-tran:hover{
+    /* width: 150%;
+    height: 100%; */
+    
+}
