@@ -3,11 +3,15 @@
     background-color: #F2F6FC;
 }
 
-.card-style-tran{
-    transition: width 2s ease 1s;
+/* .card-style-tran{
+   margin-top: 20px;
+   transition-property: margin;
+   transition-delay: 0.5s;
+   transition-timing-function:2s;
+
+
 }
 .card-style-tran:hover{
-    /* width: 150%;
-    height: 100%; */
-    
-}
+    margin-top:0;
+
+} */
