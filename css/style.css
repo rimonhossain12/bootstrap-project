@@ -20,3 +20,28 @@
 .rating-styles {
     color: #FFC107;
 }
+.footer-bg-color {
+    background-color: #F8F9FA;
+}
+
+/* list styles */
+
+.li-style ul li {
+    list-style-type: none;
+    text-align: left;
+
+
+}
+
+.li-style ul li a {
+    text-decoration: none;
+    color: gray;
+    font-size: 14px;
+}
+
+.li-style ul li:hover a {
+    text-decoration: underline;
+    color: darkcyan;
+    font-size: 16px;
+    cursor: pointer;
+}
